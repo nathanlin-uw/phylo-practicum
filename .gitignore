@@ -1,9 +1,11 @@
+!README.md
+
 # data files (wheat)
 *.nex
 *.tree
 MappedOnHordeumChromosomes_OneCopyGenes.txt
-glemin-wheat/data/*
-glemin-wheat/results/*
+phylo-practicum/data/*
+phylo-practicum/results/*
 
 
 resources/*
