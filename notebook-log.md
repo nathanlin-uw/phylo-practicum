@@ -6,7 +6,7 @@ I navigated to https://www.agap-ge2pop.org/wheat-relative-history/ in the acknow
 ### Setting up required software ###
 Setting up a software folder
 - This will contain all my executables so I will only need to add that folder to my PATH
-- Opened up my ~/.bashrc file (~ is shorthand for /home/ntlin/ folder) -- this configures shell setup things on startup
+- Opened up my \~/.bashrc file (\~ is shorthand for /home/ntlin/ folder) -- this configures shell setup things on startup
 - Added this line to .bashrc: export PATH="$PATH:~/phylo-practicum/software"
 - Now all executables in ~/phylo-practicum/software should be accessible
 
