@@ -15,3 +15,14 @@ RAxML
 - Moved it to software/, unzipped it, and moved raxml-ng from the zip folder to software/
 - Did `sudo chmod +x raxml-ng` to make it an executable
 - Now I can use the command `raxml-ng`
+
+
+
+### Running RAxML ###
+I changed the script from the class repository to make it so RAxML would not be repeated on the same files if it crashes and I need to run it again. For the "all_genes" run with the OneCopyGenes folder, it would save the names of the "finished" files in all_genes_log_completed_files.txt in the RAxML results directory.
+
+
+
+
+### Gene tree estimation ###
+

@@ -1,5 +1,6 @@
 software/*
 data/*
+results/*
 
 !README.md
 
@@ -7,8 +8,6 @@ data/*
 *.nex
 *.tree
 MappedOnHordeumChromosomes_OneCopyGenes.txt
-phylo-practicum/data/*
-phylo-practicum/results/*
 
 
 resources/*
